@@ -1,0 +1,27 @@
+# kaynak dosyası
+
+# örnek sayılar
+toplama 5
+toplama 10
+
+çıkarma 7
+çıkarma 2
+
+çarpma 2
+çarpma 5
+
+bölme 3
+bölme 5
+
+# Hataya neden olacak durumlar
+
+hata
+toplama 3 8
+çıkarma 
+bölme
+bölme 6 7
+çarpma 4 5
+
+
+
+
